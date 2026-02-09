@@ -1,0 +1,57 @@
+{
+    "analysis_timestamp": "2026-02-09T16:12:12.499844",
+    "input_number": "+917873178585",
+    "parsed_data": {
+        "country_code": 91,
+        "national_number": "7873178585",
+        "extension": null,
+        "number_of_leading_zeros": null
+    },
+    "validation": {
+        "is_valid": true,
+        "is_possible": true,
+        "validation_result": "IS_POSSIBLE"
+    },
+    "classification": {
+        "number_type": "MOBILE",
+        "type_code": 1,
+        "description": "Mobile/cellular phone"
+    },
+    "formatting": {
+        "e164": "+917873178585",
+        "international": "+91 78731 78585",
+        "national": "078731 78585",
+        "rfc3966": "tel:+91-78731-78585"
+    },
+    "geography": {
+        "location": "India",
+        "region_code": "IN",
+        "possible_regions": [
+            "IN"
+        ]
+    },
+    "carrier": {
+        "name": "Vodafone"
+    },
+    "timezone": {
+        "zones": [
+            "Asia/Calcutta"
+        ],
+        "count": 1
+    },
+    "geocoding": {
+        "latitude": 22.3511148,
+        "longitude": 78.6677428,
+        "formatted_address": "India",
+        "components": {
+            "ISO_3166-1_alpha-2": "IN",
+            "ISO_3166-1_alpha-3": "IND",
+            "_category": "place",
+            "_type": "country",
+            "continent": "Asia",
+            "country": "India",
+            "country_code": "in"
+        },
+        "confidence": 1
+    }
+}
